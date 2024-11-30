@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Efrem</h1>
-<h3 align="center">A Passionate and Highly Motivated Software and Web Developer. Undergraduate Student @ Petra Christian University Majoring in Computer Science with Focus on Full Stack Development</h3>
+<h3 align="center">A Passionate and Highly Motivated Software and Web Developer. Undergraduate Student and Assistant Lecturer @ Petra Christian University Majoring in Computer Science with Focus on Full Stack Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardefrem" alt="richardefrem" /></a> </p>
 
