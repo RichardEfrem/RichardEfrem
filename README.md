@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richard Efrem</h1>
 <h3 align="center">A Passionate and Highly Motivated Software and Web Developer. Undergraduate Student and Assistant Lecturer @ Petra Christian University Majoring in Computer Science with Focus on Full Stack Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardefrem" alt="richardefrem" /></a> </p>
-
-- 🔭 I’m currently working on [Gunsnip - Gunpla Specialized E-Commerce Website](https://github.com/RichardEfrem/Gunsnip)
-
-- 🌱 I’m currently learning **React, Android Development, and Amazon AWS**
-
 - 📫 How to reach me **richardomega144@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
