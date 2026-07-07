@@ -4,7 +4,7 @@
 
 **Full-Stack Software Engineer** · Laravel · Next.js · Flutter
 
-📍 Surabaya, Indonesia &nbsp;·&nbsp; 🎯 Targeting Software Engineer roles in Japan
+📍 Surabaya, Indonesia &nbsp;·&nbsp; 🎯 Targeting Software Engineer roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardomega144@gmail.com)
@@ -54,7 +54,7 @@ A production scheduling system built for a furniture manufacturer, using a hybri
 
 ## 🎯 Currently
 
-- Open to **Software Engineer** roles, with a particular focus on opportunities in **Japan**
+- Open to **Software Engineer** roles
 - Building out **FastAPI + Docker + Kubernetes** skills alongside my Laravel/Next.js background
 - Open to freelance/full-stack project work
 
