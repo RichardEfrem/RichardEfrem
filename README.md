@@ -26,8 +26,6 @@ A production scheduling system built for a furniture manufacturer, using a hybri
 - **< 1.3s** scheduling response time under concurrent load
 - Stack: Laravel 12 · Next.js 16 · PostgreSQL
 
-> Codebase is private (client project under NDA). Case study, architecture diagrams, and a demo walkthrough available on request.
-
 ## 🛠️ Tech Stack
 
 **Backend & Languages**
