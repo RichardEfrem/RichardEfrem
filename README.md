@@ -17,9 +17,9 @@
 
 Computer Science graduate (Informatics) from Petra Christian University, Surabaya. I build full-stack systems end to end — APIs, databases, and the frontends that sit on top of them — and I like problems with a real optimization or algorithmic core, not just CRUD.
 
-## 🚀 Featured Project — IconSpirit
+## 🚀 Featured Project — Iconspirit Production Scheduling Website
 
-A production scheduling system built for a furniture manufacturer, using a hybrid **NEH + EDD** algorithm to sequence production jobs and minimize makespan. Originally my undergraduate thesis, built as a real deployed tool.
+A production scheduling system built for Iconspirit, a furniture manufacturer, using a hybrid **NEH + EDD** algorithm to sequence production jobs and minimize makespan. Originally my undergraduate thesis, built as a real deployed tool.
 
 - **16–18%** reduction in makespan vs. the manufacturer's prior manual scheduling
 - **86.25** System Usability Scale score across user testing
